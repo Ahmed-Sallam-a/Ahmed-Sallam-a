@@ -1,6 +1,3 @@
-Based on the provided CV, here's a suggested GitHub profile README for Ahmed Sallam:
-
----
 
 ## Hi there, I'm Ahmed Sallam 👋
 
